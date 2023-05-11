@@ -1,4 +1,4 @@
-# Dungeons-and-Dragons
+# Thrones & Dragons
 Cool game | Java | OOP | Visitor Pattern
 "Thrones & Dragons: A Java-based Game of Epic Adventures"
 
